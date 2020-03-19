@@ -1,6 +1,8 @@
 # Ultimate Coding Challenge 
 Must complete 60 projects in 30 days.
 
+COMPLETED: 
+
 1. Tic-Tac-Toe game
 2. Reminder app
 3. Hangman game
