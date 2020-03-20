@@ -13,7 +13,7 @@ COMPLETED:
 8. Math Calculator 
 9. Number Guessing game
 10. Password Generator program
-11.
+11. Plotting sine and cosine
 12.
 
 
