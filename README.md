@@ -12,7 +12,7 @@ COMPLETED:
 7. Temperature Converter Calculator
 8. Math Calculator 
 9. Number Guessing game
-10. Password Generator program
+10. Password Generator
 11. Plotting sine and cosine
 12.
 
