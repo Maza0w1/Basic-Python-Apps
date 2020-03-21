@@ -14,6 +14,8 @@ COMPLETED:
 9. Number Guessing game
 10. Password Generator
 11. Plotting sine and cosine
-12.
+12. Mortgage Calculator
+13.
+14. 
 
 
