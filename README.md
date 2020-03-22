@@ -15,7 +15,7 @@ COMPLETED:
 10. Password Generator
 11. Plotting sine and cosine
 12. Mortgage Calculator
-13.
+13. Speed Calculator 
 14. 
 15.
 16.
