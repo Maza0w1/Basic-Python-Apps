@@ -18,8 +18,8 @@ COMPLETED:
 13. Speed Calculator 
 14. 
 15.
-**25 % completed so far
-
+25 % completed so far
+~~~~~~~~~~~~~~~~~~~~
 16.
 
 
