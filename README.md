@@ -1,10 +1,10 @@
 # Ultimate Coding Challenge 
 Must complete 60 projects in 30 days (March 15 - April 15)
 
-# 15 projects = 25% completion 
-# 30 projects = 50% completion
-# 45 projects = 75% completion 
-# 60 projects = 100% completion
+# Milestone 1: 15 projects = 25% completion 
+# Milestone 2: 30 projects = 50% completion
+# Milestone 3: 45 projects = 75% completion 
+# Milestone 4: 60 projects = 100% completion
 
 
 COMPLETED: 
@@ -25,6 +25,6 @@ COMPLETED:
 14. Finding the Volume of a Sphere
 15. Is it a Palindrome? program
 16. Time Converter
-17.
+17. Vowel Counter
 18.
 
