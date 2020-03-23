@@ -1,10 +1,12 @@
 # Ultimate Coding Challenge 
 Must complete 60 projects in 30 days (March 15 - April 15)
 
-15 projects = 25% completion 
-30 projects = 50% completion
-45 projects = 75% completion 
-60 projects = 100% completion
+# 15 projects = 25% completion 
+# 30 projects = 50% completion
+# 45 projects = 75% completion 
+# 60 projects = 100% completion
+
+
 COMPLETED: 
 
 1. Tic-Tac-Toe game
