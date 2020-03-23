@@ -1,5 +1,5 @@
 # Ultimate Coding Challenge 
-Must complete 60 projects in 30 days.
+Must complete 60 projects in 30 days (March 15 - April 15)
 
 COMPLETED: 
 
