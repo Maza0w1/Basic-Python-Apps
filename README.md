@@ -26,5 +26,5 @@ COMPLETED:
 15. Is it a Palindrome? program
 16. Time Converter
 17. Vowel Counter
-18.
+18. FizzBuzz
 
