@@ -28,5 +28,5 @@ COMPLETED:
 17. Vowel Counter
 18. FizzBuzz
 19. Finding the Area of a Triangle
-20.
+20. To the Power of!
 
