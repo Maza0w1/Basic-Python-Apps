@@ -27,6 +27,6 @@ COMPLETED:
 16. Time Converter
 17. Vowel Counter
 18. FizzBuzz
-19.
+19. Finding the Area of a Triangle
 20.
 
