@@ -30,4 +30,4 @@ COMPLETED:
 19. Calculate the Area of a Triangle
 20. Exponent Calculator
 21. Calculate the Perimeter of a Rectangle
-22.
+22. Calculate the Maximum Edge of a Triangle
