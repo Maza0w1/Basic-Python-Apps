@@ -22,11 +22,12 @@ COMPLETED:
 11. Plotting sine and cosine
 12. Mortgage Calculator
 13. Speed Calculator 
-14. Finding the Volume of a Sphere
+14. Calculate the Volume of a Sphere
 15. Is it a Palindrome? program
 16. Time Converter
 17. Vowel Counter
 18. FizzBuzz
-19. Finding the Area of a Triangle
+19. Calculate the Area of a Triangle
 20. Exponent Calculator
-
+21. Calculate the Perimeter of a Rectangle
+22.
