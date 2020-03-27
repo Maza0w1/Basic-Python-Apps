@@ -32,4 +32,6 @@ COMPLETED:
 21. Calculate the Perimeter of a Rectangle
 22. Calculate the Maximum Edge of a Triangle
 23. Calculate the Volume of a Cone 
-24.
+24. Profit Margin Calculator 
+25.
+26.
