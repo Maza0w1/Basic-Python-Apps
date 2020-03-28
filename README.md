@@ -35,3 +35,5 @@ COMPLETED:
 24. Profit Margin Calculator 
 25.
 26.
+27.
+28.
