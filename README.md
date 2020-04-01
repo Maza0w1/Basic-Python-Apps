@@ -33,7 +33,7 @@ COMPLETED:
 22. Calculate the Maximum Edge of a Triangle
 23. Calculate the Volume of a Cone 
 24. Profit Margin Calculator 
-25.
+25. Calculate the length of a Word
 26.
 27.
 28.
@@ -43,3 +43,5 @@ COMPLETED:
 32.
 33.
 34.
+35.
+36.
