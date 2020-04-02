@@ -38,7 +38,7 @@ COMPLETED:
 27. Number Converter
 28. Multiple of 100 
 29. Decimalm Notation
-30.
+30. Automorphic Numbers 
 31.
 32.
 33.
