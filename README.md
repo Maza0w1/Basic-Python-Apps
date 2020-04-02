@@ -36,8 +36,8 @@ COMPLETED:
 25. Calculate the length of a Word
 26. Word Filter
 27. Number Converter
-28.
-29.
+28. Multiple of 100 
+29. Decimalm Notation
 30.
 31.
 32.
@@ -45,3 +45,5 @@ COMPLETED:
 34.
 35.
 36.
+37.
+38.
