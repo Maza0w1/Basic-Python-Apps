@@ -39,7 +39,7 @@ COMPLETED:
 28. Multiple of 100 
 29. Decimalm Notation
 30. Automorphic Numbers 
-31.
+31. Even or Odd Number Classifier 
 32.
 33.
 34.
