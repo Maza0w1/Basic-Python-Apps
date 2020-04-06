@@ -41,7 +41,7 @@ COMPLETED:
 30. Automorphic Numbers 
 31. Even or Odd Number Classifier 
 32. Calculate the Volume of a Spherical Shell
-33.
+33. Pandigital Numbers
 34.
 35.
 36.
