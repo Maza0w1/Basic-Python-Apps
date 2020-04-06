@@ -40,7 +40,7 @@ COMPLETED:
 29. Decimalm Notation
 30. Automorphic Numbers 
 31. Even or Odd Number Classifier 
-32.
+32. Calculate the Volume of a Spherical Shell
 33.
 34.
 35.
@@ -49,3 +49,9 @@ COMPLETED:
 38.
 39.
 40.
+41.
+42.
+43.
+44.
+45.
+46.
