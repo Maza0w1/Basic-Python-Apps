@@ -42,7 +42,7 @@ COMPLETED:
 31. Even or Odd Number Classifier 
 32. Calculate the Volume of a Spherical Shell
 33. Pandigital Numbers
-34.
+34. Money Counter
 35.
 36.
 37.
