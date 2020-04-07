@@ -44,7 +44,7 @@ COMPLETED:
 33. Pandigital Numbers
 34. Money Counter
 35. Numerical Morphisms
-36.
+36. Simple OOP Mathematical Calculator
 37.
 38.
 39.
