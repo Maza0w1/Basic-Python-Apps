@@ -43,7 +43,7 @@ COMPLETED:
 32. Calculate the Volume of a Spherical Shell
 33. Pandigital Numbers
 34. Money Counter
-35.
+35. Numerical Morphisms
 36.
 37.
 38.
