@@ -47,7 +47,7 @@ COMPLETED:
 36. Simple OOP Mathematical Calculator
 37. Random Letter Generator
 38. Dice Rolling Simulator
-39.
+39. Email Slicer
 40.
 41.
 42.
