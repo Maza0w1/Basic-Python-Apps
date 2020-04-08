@@ -46,7 +46,7 @@ COMPLETED:
 35. Numerical Morphisms
 36. Simple OOP Mathematical Calculator
 37. Random Letter Generator
-38.
+38. Dice Rolling Simulator
 39.
 40.
 41.
