@@ -1,13 +1,4 @@
-# Ultimate Coding Challenge 
-Must complete 60 projects in 30 days (March 15 - April 15)
-
-# Milestone 1: 15 projects = 25% completion 
-# Milestone 2: 30 projects = 50% completion
-# Milestone 3: 45 projects = 75% completion 
-# Milestone 4: 60 projects = 100% completion
-
-
-COMPLETED: 
+Python Coding Projects 
 
 1. Tic-Tac-Toe game
 2. Reminder app
@@ -49,13 +40,3 @@ COMPLETED:
 38. Dice Rolling Simulator
 39. Email Slicer
 40. Countdown Timer
-41.
-42.
-43.
-44.
-45.
-46.
-47.
-48.
-49.
-50.
