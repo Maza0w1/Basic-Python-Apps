@@ -28,7 +28,7 @@ Python Coding Projects
 26. Word Filter
 27. Number Converter
 28. Multiple of 100 
-29. Decimalm Notation
+29. Decimal Notation
 30. Automorphic Numbers 
 31. Even or Odd Number Classifier 
 32. Calculate the Volume of a Spherical Shell
