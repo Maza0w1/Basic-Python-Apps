@@ -1,4 +1,4 @@
-Basic Python Programming Projects
+The Projects:
 
 1. Tic-Tac-Toe game
 2. Reminder app
