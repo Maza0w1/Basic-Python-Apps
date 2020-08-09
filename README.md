@@ -40,3 +40,6 @@ The Projects:
 38. Dice Rolling Simulator
 39. Email Slicer
 40. Countdown Timer
+41. Range
+42. Vector
+43. Fat Burning Heart Rate
