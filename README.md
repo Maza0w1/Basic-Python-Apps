@@ -1,4 +1,4 @@
-The Projects:
+### Projects
 
 1. Tic-Tac-Toe game
 2. Reminder app
